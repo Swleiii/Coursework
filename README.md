@@ -1,5 +1,4 @@
-# Coursework
-Coding projects for BBA in Information Systems (Business Analytics Option)
+#Coding projects for BBA in Information Systems (Business Analytics Option)
 ---
 
 ## 🍽️ DB Café Dine-In Ordering System
