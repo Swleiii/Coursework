@@ -1,5 +1,4 @@
-#Coding projects for BBA in Information Systems (Business Analytics Option)
----
+# Coding projects for BBA in Information Systems (Business Analytics Option)
 
 ## 🍽️ DB Café Dine-In Ordering System
 A multi-terminal restaurant management system developed for DB Café to streamline dine-in ordering and support daily operations across front-of-house and kitchen.
